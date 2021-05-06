@@ -8,7 +8,7 @@ Step1: install [OpenCV](https://opencv.org/releases/), version >= 4.0.x.
 
 Step2: run `git clone https://github.com/zzyandzzy/ean-13-recognition.git --depth 1`, clone the project.
 
-Step 3: run `cmake . && make && ./ean_13 ./resources/test1.png`, you can print `9787302382515`, this is `./resources/test1.png` EAN-13 barcode.
+Step3: run `cmake . && make && ./ean_13 ./resources/test1.png`, you see print `9787302382515`, this is `./resources/test1.png` EAN-13 barcode.
 
 ## License
 
